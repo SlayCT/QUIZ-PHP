@@ -1,4 +1,4 @@
-#QUIZ PHP#
+##QUIZ PHP##
 
 #Para abrir:#
 php -S localhost:8000

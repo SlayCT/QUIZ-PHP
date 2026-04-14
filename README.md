@@ -1,7 +1,7 @@
-##QUIZ PHP
+## QUIZ PHP
 
-#Para abrir:
+# Para abrir:
 php -S localhost:8000
 
-#Abrindo:
+# Abrindo:
 http://localhost:8000/index.php
